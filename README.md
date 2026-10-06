@@ -13,7 +13,7 @@ npm ci
 npm run check
 ```
 
-`dist/` statik çıktıdır. `DEMO_URL` verilirse demo bağlantıları o adrese yönlenir; varsayılan adres `https://axon-fit-demo.vercel.app/demo/`. `SITE_URL` canonical ve sitemap için kullanılabilir; Vercel Production URL otomatik algılanır.
+`dist/` statik çıktıdır. `DEMO_URL` verilirse demo bağlantıları o adrese yönlenir; varsayılan adres `https://axon-fit-demo-zeta.vercel.app/demo/`. `SITE_URL` canonical ve sitemap için kullanılabilir; Vercel Production URL otomatik algılanır.
 
 ## Vercel
 

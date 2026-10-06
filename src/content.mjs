@@ -1,5 +1,5 @@
 export const DEPLOY_URL = 'https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgokerlek%2Faxon-fit';
-export const DEMO_URL = process.env.DEMO_URL || 'https://axon-fit-demo.vercel.app/demo/';
+export const DEMO_URL = process.env.DEMO_URL || 'https://axon-fit-demo-zeta.vercel.app/demo/';
 export const REPO_URL = 'https://github.com/gokerlek/axon-fit';
 
 export const features = [
